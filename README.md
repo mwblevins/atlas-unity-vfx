@@ -49,9 +49,6 @@ Fine-tune beat detection parameters to suit different music genres, ensuring sys
 2. **ParamCubeMAt.cs**
    - Manages visual effects triggered by beats for materials changing color on game objects.
 
-3. **GameplayEvents.cs**
-   - Defines gameplay events triggered by beats.
-   - Controls player actions, level progression, etc.
 
 
 ## How to Use
